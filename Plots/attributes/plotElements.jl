@@ -41,4 +41,4 @@ plot!(
     line = (:black, 1.0, 2, :dash)
 )
 
-savefig("plotElements.pdf")
+savefig("plotElements.png")
