@@ -4,6 +4,7 @@ pyplot()
 ages = rand(15:55,1000)
 
 histogram(ages)
+savefig("histogram_1.png")
 
 d = Normal(35.0, 10.0)
 
@@ -13,8 +14,7 @@ histogram(ages,
     label = "Распределение по возрастам (года)",
     xlabel = "Возраст (лет)",
     ylabel = "Количество")
-savefig("histogram.pdf")
-plotly()
+savefig("histogram_2.png")
 
 d1 = Normal(10, 5)
 d2 = Normal(35, 10)
@@ -31,3 +31,4 @@ histogram(ages,
     xlabel = "Возраст (лет)",
     ylabel = "Количество",
     title = "Распределение по возрастам (года)")
+savefig("histogram_3.png")

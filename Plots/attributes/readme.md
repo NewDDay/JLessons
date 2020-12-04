@@ -3,6 +3,8 @@
 2) Series (цвет, толщина, графика)
 3) Subplot (Аннотация, легенда, ракурс камеры)
 4) Axis (цвет, шрифт, текст оси)
+Список аттрибутов мы можем найти здесь: http://docs.juliaplots.org/latest/attributes/
+
 
 - У каждого атрибута есть синонимы. Например markersize = markersizes = ms = msize. В серьёзных проектах не следует применять синонимы.
 - Существует сокращённая задача настроек, например:
@@ -18,5 +20,6 @@
         xtickfont = font(20, "Courier")
     )
 ```
-График
+График из программы
+
 ![alt tag](https://github.com/NewDDay/JLessons/blob/master/Plots/attributes/plotElements.png?raw=true "График программы в директории")​
