@@ -22,4 +22,4 @@
 ```
 График из программы
 
-![alt tag](https://github.com/NewDDay/JLessons/blob/master/Plots/attributes/plotElements.png?raw=true "График программы в директории")​
+![alt tag](https://github.com/NewDDay/Lessons/blob/master/julia/plots.jl/attributes/plot_elements.png?raw=true "График программы в директории")​

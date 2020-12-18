@@ -2,12 +2,12 @@
 
 Простейшая гистограмма:
 
-![alt tag](https://github.com/NewDDay/JLessons/blob/master/Plots/histograms/histogram_1.png?raw=true "Возрасты")​
+![alt tag](https://github.com/NewDDay/Lessons/blob/master/julia/plots.jl/histograms/histogram_1.png?raw=true "Возрасты")​
 
 Гистограмма нормального распределения:
 
-![alt tag](https://github.com/NewDDay/JLessons/blob/master/Plots/histograms/histogram_2.png?raw=true "normal")
+![alt tag](https://github.com/NewDDay/Lessons/blob/master/julia/plots.jl/histograms/histogram_2.png?raw=true "normal")
 
 Три налоенных нормальных распределения:
 
-![alt tag](https://github.com/NewDDay/JLessons/blob/master/Plots/histograms/histogram_3.png?raw=true "3 normal")​​
+![alt tag](https://github.com/NewDDay/Lessons/blob/master/julia/plots.jl/histograms/histogram_3.png?raw=true "3 normal")​​
